@@ -1,0 +1,16 @@
+{
+  "name": "exoframe-node2-template",
+  "version": "0.1.0",
+  "description": "run 'npm run build' after 'npm install'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "typora.io",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typora/exoframe-node2-template.git"
+  }
+}
